@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://emodacer.github.io/sitemap.html.gz
+Sitemap: https://emodacer.github.io/app/sitemap.html.gz
+Sitemap: https://emodacer.github.io/assets/sitemap.html.gz
+Sitemap: https://emodacer.github.io/css/sitemap.html.gz
+Sitemap: https://emodacer.github.io/includes/sitemap.html.gz
+Sitemap: https://emodacer.github.io/item/sitemap.html.gz
+Sitemap: https://emodacer.github.io/src/sitemap.html.gz
